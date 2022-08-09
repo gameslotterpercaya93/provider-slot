@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle provider-slot",
+        "command": "provider-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "provider-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "provider-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
