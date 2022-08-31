@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Link Lengkap Tutorial Main Provider Slot Resmi Indonesia](https://atom.io/packages/provider-slot)
-## :heart_decoration: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :white_check_mark: <<< 
-## :8ball: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/) :cake: <<< 
-## :o: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/) :heavy_check_mark: <<< 
+## :heart_decoration: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :white_check_mark: <<< 
+## :8ball: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/) :cake: <<< 
+## :o: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/) :heavy_check_mark: <<< 
 
 ## Informasi Situs /Server Kami : 
 
